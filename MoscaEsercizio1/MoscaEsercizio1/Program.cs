@@ -6,7 +6,20 @@ namespace MoscaEsercizio1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+                const int dimensione = 400;
+
+                int[] vett = new int[dimensione];
+                Random generator = new Random();
+                for (int i = 0; i < dimensione; i++)
+                {
+                    vett[i] = generator.Next(0, 101);
+                    Console.WriteLine($"vett[{i}]={vett[i]}");
+                }
+
+            }
         }
     }
-}
+
+
+    
+

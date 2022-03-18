@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\bin\Debug\net5.0\MoscaEsercizio1.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\bin\Debug\net5.0\MoscaEsercizio1.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\bin\Debug\net5.0\MoscaEsercizio1.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\bin\Debug\net5.0\MoscaEsercizio1.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\bin\Debug\net5.0\MoscaEsercizio1.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\bin\Debug\net5.0\ref\MoscaEsercizio1.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\bin\Debug\net5.0\MoscaEsercizio1.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\obj\Debug\net5.0\MoscaEsercizio1.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\obj\Debug\net5.0\MoscaEsercizio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\obj\Debug\net5.0\MoscaEsercizio1.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\obj\Debug\net5.0\MoscaEsercizio1.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\obj\Debug\net5.0\MoscaEsercizio1.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\obj\Debug\net5.0\MoscaEsercizio1.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\obj\Debug\net5.0\ref\MoscaEsercizio1.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\obj\Debug\net5.0\MoscaEsercizio1.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-moscaluca15\MoscaEsercizio1\MoscaEsercizio1\obj\Debug\net5.0\MoscaEsercizio1.genruntimeconfig.cache
